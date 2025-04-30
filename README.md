@@ -27,14 +27,9 @@ Puedes verla [aquí](/miSitio/).
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. <br>
-2. <br>
-3. <br>
-4. <br>
-5. <br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 30th, 2025, 12:27:04 PM
+Last Updated: Wednesday, April 30th, 2025, 1:03:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## API de Python básica
