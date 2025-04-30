@@ -1,10 +1,14 @@
-name: Update README2
+name: Recent Activity
 
 on:
   schedule:
     - cron: "* */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+  
 jobs:
   build:
     runs-on: ubuntu-latest
