@@ -26,7 +26,8 @@ Una muy colorida plantilla HTML básica para lograr una muy buena presentación 
 Puedes verla [aquí](/miSitio/).
 
 ## :zap: Actividad Reciente
-
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ## API de Python básica
 
