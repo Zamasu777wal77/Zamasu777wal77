@@ -25,6 +25,9 @@ Una muy colorida plantilla HTML básica para lograr una muy buena presentación 
 
 Puedes verla [aquí](/miSitio/).
 
+## :zap: Actividad Reciente
+
+
 ## API de Python básica
 
 Una API básica con solo tres métodos de prueba. ¡Lo que importa es aprender de Github ahora!
