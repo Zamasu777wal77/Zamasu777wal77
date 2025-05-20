@@ -27,14 +27,14 @@ Puedes verla [aquí](/miSitio/).
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Zamasu777wal77/RELEASES](https://github.com/Zamasu777wal77/RELEASES)<br>
-2. 📔 Created new repository [Zamasu777wal77/RELEASES](https://github.com/Zamasu777wal77/RELEASES)<br>
-3. ⬆️ Pushed 2 commit(s) to [Zamasu777wal77/miCuartoRepo](https://github.com/Zamasu777wal77/miCuartoRepo)<br>
-4. ⬆️ Pushed 3 commit(s) to [Zamasu777wal77/miCuartoRepo](https://github.com/Zamasu777wal77/miCuartoRepo)<br>
-5. 🎉 Merged PR [#1](https://github.com/Zamasu777wal77/miCuartoRepo/pull/1) in [Zamasu777wal77/miCuartoRepo](https://github.com/Zamasu777wal77/miCuartoRepo)<br>
+1. ✌️ Released [v0.1.0](https://github.com/Zamasu777wal77/RELEASES/releases/tag/v0.1.0) in [Zamasu777wal77/RELEASES](https://github.com/Zamasu777wal77/RELEASES)<br>
+2. ⬆️ Pushed 1 commit(s) to [Zamasu777wal77/RELEASES](https://github.com/Zamasu777wal77/RELEASES)<br>
+3. 📔 Created new repository [Zamasu777wal77/RELEASES](https://github.com/Zamasu777wal77/RELEASES)<br>
+4. ⬆️ Pushed 2 commit(s) to [Zamasu777wal77/miCuartoRepo](https://github.com/Zamasu777wal77/miCuartoRepo)<br>
+5. ⬆️ Pushed 3 commit(s) to [Zamasu777wal77/miCuartoRepo](https://github.com/Zamasu777wal77/miCuartoRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 20th, 2025, 1:10:09 AM
+Last Updated: Tuesday, May 20th, 2025, 12:29:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## API de Python básica
